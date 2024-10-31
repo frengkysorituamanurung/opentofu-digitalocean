@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Hello World
-        run: echo "Hello, World!""
+        run: echo "Hello, World!"
     # steps:
     #   - name: Checkout code
     #     uses: actions/checkout@v2
