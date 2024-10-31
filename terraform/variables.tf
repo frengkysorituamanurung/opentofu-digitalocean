@@ -16,7 +16,7 @@ variable "region" {
   default     = "nyc3"
 }
 
-variable "size" {
+variable "droplet_size" {
   description = "The size of the droplet"
   type        = string
   default     = "s-1vcpu-1gb"

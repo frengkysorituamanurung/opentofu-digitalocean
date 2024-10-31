@@ -1,1 +1,0 @@
-FROM alpine:1.8.4 
