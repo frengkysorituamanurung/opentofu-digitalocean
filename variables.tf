@@ -7,7 +7,7 @@ variable "do_token" {
 variable "droplet_name" {
   description = "The name of the DigitalOcean droplet"
   type        = string
-  default     = "example-droplet"
+  default     = "my-droplet"
 }
 
 variable "region" {
